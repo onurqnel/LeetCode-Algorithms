@@ -1,0 +1,15 @@
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/bin/Debug/net8.0/SequentialSearch
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/bin/Debug/net8.0/SequentialSearch.deps.json
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/bin/Debug/net8.0/SequentialSearch.runtimeconfig.json
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/bin/Debug/net8.0/SequentialSearch.dll
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/bin/Debug/net8.0/SequentialSearch.pdb
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.AssemblyInfoInputs.cache
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.AssemblyInfo.cs
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.csproj.CoreCompileInputs.cache
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.sourcelink.json
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.dll
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/refint/SequentialSearch.dll
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.pdb
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/SequentialSearch.genruntimeconfig.cache
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/obj/Debug/net8.0/ref/SequentialSearch.dll

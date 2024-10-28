@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4LO56TXv4buPuunf/4PdsoTAisUVeUUB7fHR4oiKk8Qn9TlcRN1XwBJmp/HqCjcdEMhi8+/Usr83hC8nSgaV4A==",
+  "success": true,
+  "projectFilePath": "/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/SequentialSearch/SequentialSearch.csproj",
+  "expectedPackageFiles": [
+    "/home/onel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
