@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/aOZnQqzL8ybnnfezO+9MessKFF1MsxEPOPptZRt5VdIE16bf6nx/g9quRRmL8XDwD3CGh6m6cz1a70XWVu60A==",
+  "success": true,
+  "projectFilePath": "/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/SelectionSort.csproj",
+  "expectedPackageFiles": [
+    "/home/onel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
