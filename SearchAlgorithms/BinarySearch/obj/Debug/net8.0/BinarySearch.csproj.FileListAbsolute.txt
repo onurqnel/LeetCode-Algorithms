@@ -1,0 +1,15 @@
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfoInputs.cache
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfo.cs
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.csproj.CoreCompileInputs.cache
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.sourcelink.json
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/bin/Debug/net8.0/BinarySearch
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/bin/Debug/net8.0/BinarySearch.deps.json
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/bin/Debug/net8.0/BinarySearch.runtimeconfig.json
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/bin/Debug/net8.0/BinarySearch.dll
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/bin/Debug/net8.0/BinarySearch.pdb
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.dll
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/refint/BinarySearch.dll
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.pdb
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/BinarySearch.genruntimeconfig.cache
+/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/obj/Debug/net8.0/ref/BinarySearch.dll

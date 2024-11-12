@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jLO7m5Fgrm/d/cT1mrkdJoq2QN1JitebSUt4hboTjPDXjKn0cIlStBCstPfy/ergwiaFzJOqmPGFbL+NkEESbw==",
+  "dgSpecHash": "Rr1KmsA75chWxBmzVuvMYjgQ+6mkDuBGWOlfXcUL0UZDy2ynYU2Z698ERrbL/W03f16oODQDG3yeDt/EasEXqg==",
   "success": true,
   "projectFilePath": "/home/onel/git/LeetCode-Algorithms/SearchAlgorithms/BinarySearch/BinarySearch.csproj",
   "expectedPackageFiles": [
-    "/home/onel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/home/onel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }
