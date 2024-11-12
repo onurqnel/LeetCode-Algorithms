@@ -1,0 +1,15 @@
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/bin/Debug/net8.0/SelectionSort
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/bin/Debug/net8.0/SelectionSort.deps.json
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/bin/Debug/net8.0/SelectionSort.runtimeconfig.json
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/bin/Debug/net8.0/SelectionSort.dll
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/bin/Debug/net8.0/SelectionSort.pdb
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.AssemblyInfoInputs.cache
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.AssemblyInfo.cs
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.csproj.CoreCompileInputs.cache
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.sourcelink.json
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.dll
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/refint/SelectionSort.dll
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.pdb
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/SelectionSort.genruntimeconfig.cache
+/home/onel/git/LeetCode-Algorithms/SortAlgorithms/SelectionSort/obj/Debug/net8.0/ref/SelectionSort.dll
